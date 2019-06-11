@@ -1,0 +1,2 @@
+# mongoPricatise
+mongoDB练习
